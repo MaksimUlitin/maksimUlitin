@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <div align="center">
-  <img src="https://i.imgur.com/1ZvVkDc.gif " width="1100" height="300"/>
+  <img src="https://i.imgur.com/1ZvVkDc.gif " width="1000" height="300"/>
 </div>
 </div>
 
@@ -66,7 +66,7 @@
 ---
 
 ### <img src="https://media.giphy.com/media/RKTPZXCis6a9qxQeUs/giphy.gif" width="40"> My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maksimUlitin&theme=react&mode=weekly&card_width=1000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maksimUlitin&theme=react&mode=weekly&card_width=800)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksimUlitin&layout=compact&theme=react&mode=weekly&card_width=1000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksimUlitin&layout=compact&theme=react&mode=weekly&card_width=500)
 
