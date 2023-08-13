@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <div align="center">
-  <img src="https://i.imgur.com/1ZvVkDc.gif " width="1000" height="300"/>
+  <img src="https://i.pinimg.com/originals/33/e2/eb/33e2eb013d11edd6b0b3f6fc284e82e8.gif" width="800" height="400"/>
 </div>
 </div>
 
