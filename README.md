@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="160"/>
+  <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="200"/>
 <a href="https://t.me/xqweens">
     <div id="badges">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
