@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif" width="200"/>
+  <h1>WARNING❗️ The owner of this account can be very toxic</h1>
 <a href="https://t.me/xqweens">
     <div id="badges">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <div align="center">
-  <img src="https://i.pinimg.com/originals/33/e2/eb/33e2eb013d11edd6b0b3f6fc284e82e8.gif" width="800" height="380"/>
+  <img src="https://i.pinimg.com/originals/c2/c9/a1/c2c9a184e8970c4dbecb28851149a3fd.gif" width="800" height="380"/>
 </div>
 </div>
 
