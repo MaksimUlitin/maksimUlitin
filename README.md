@@ -22,7 +22,7 @@
 
 - <img src="https://media.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif" width="28"> Exploring technologies and writing projects.
 
-- <img src="https://media.giphy.com/media/Eb6Gch3Yn2C3aMhSEh/giphy.gif" width="28"> In my free time, I study and read technical articles
+- <img src="https://media.giphy.com/media/Eb6Gch3Yn2C3aMhSEh/giphy.gif" width="28"> In my free time from life, I study and read technical articles.
 
 - <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGowejgxd2FoZmxtd2I1cmo4dXRidDI0aGMxOG1rNmtremU2c2tkdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/SqeOkSnV9xMmmOylZ6/giphy.gif" width="45"> How to reach me:[![Telegram](https://img.shields.io/badge/-Telegtam-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xqweens)
 
