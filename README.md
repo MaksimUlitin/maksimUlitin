@@ -14,7 +14,7 @@
 </div>
 </div>
 
-### :man_technologist: About Me :
+### :man_technologist: Who am I? :
 ---
 **I’m a developer <img src="https://media.giphy.com/media/MAcqfBGahLB7WYGeBZ/giphy.gif" width="35"> from Mars.**
 
