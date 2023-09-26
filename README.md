@@ -28,7 +28,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm53cmhoNno3anAxa2VnNGkxNXBrZm9xOXk2dGg0bWJsb2dqM2JzYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="55">: My main stack :
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm53cmhoNno3anAxa2VnNGkxNXBrZm9xOXk2dGg0bWJsb2dqM2JzYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="55"> My main stack :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
