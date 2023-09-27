@@ -5,16 +5,17 @@
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </div>
   </a>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  <div>
+    
+<b>HEY THERE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>    </b> 
+  </div>
+ 
   <div align="center">
   <img src="https://i.pinimg.com/originals/c2/c9/a1/c2c9a184e8970c4dbecb28851149a3fd.gif" width="800" height="380"/>
 </div>
 </div>
 
-### :man_technologist: Who am I? :
+ :man_technologist: <b>Who am I?:</b>
 ---
 **I’m a developer <img src="https://media.giphy.com/media/MAcqfBGahLB7WYGeBZ/giphy.gif" width="35"> from Mars.**
 
@@ -28,7 +29,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm53cmhoNno3anAxa2VnNGkxNXBrZm9xOXk2dGg0bWJsb2dqM2JzYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="55"> My main stack :
+<b> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm53cmhoNno3anAxa2VnNGkxNXBrZm9xOXk2dGg0bWJsb2dqM2JzYyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="55">My main stack:</b>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -36,7 +37,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/Jt5njHmTD36Ho9fBbv/giphy.gif" width="28">  Working with tools :
+<b> <img src="https://media.giphy.com/media/Jt5njHmTD36Ho9fBbv/giphy.gif" width="28">  Working with tools: </b>
 
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -53,7 +54,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/71Zc3WucVlxJc74G3T/giphy.gif" width="28"> Learning tools:
+ <b> <img src="https://media.giphy.com/media/71Zc3WucVlxJc74G3T/giphy.gif" width="28"> Learning tools:</b>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Php" alt="Rust" width="40" height="40"/>&nbsp;
@@ -64,8 +65,8 @@
 </div>
 
 ---
+<b> <img src="https://media.giphy.com/media/RKTPZXCis6a9qxQeUs/giphy.gif" width="40"> My Stats:</b>
 
-### <img src="https://media.giphy.com/media/RKTPZXCis6a9qxQeUs/giphy.gif" width="40"> My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maksimUlitin&theme=react&mode=weekly&card_width=800)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksimUlitin&layout=compact&theme=react&mode=weekly&card_width=500)
