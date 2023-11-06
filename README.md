@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>WARNING❗️ The owner of this account can be very toxic</h1>
+  <h1>Welcome to my page </h1>
 <a href="https://t.me/xqweens">
     <div id="badges">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
