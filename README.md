@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center"> 
   <h1>Welcome to my page </h1>
 <a href="https://t.me/xqweens">
     <div id="badges">
