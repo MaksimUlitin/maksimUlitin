@@ -15,7 +15,7 @@
 ### I’m a developer <img src="https://media.giphy.com/media/MAcqfBGahLB7WYGeBZ/giphy.gif" width="35"> from Mars.
 
 ### <img src="https://media.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif" width="28"> web3 - ❤️
-### How to reach me:[![Telegram](https://img.shields.io/badge/-Telegtam-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xqweens)
+### How to reach me:[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/xqweens)
 
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maksimUlitin&theme=react&mode=weekly&card_width=800)](https://git.io/streak-stats)
