@@ -11,7 +11,7 @@
 
 ### <img src="https://media.giphy.com/media/mlv2FZj2ZRrNLCIbG8/giphy.gif" width="28"> web3 - ❤️
 
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maksimUlitin&theme=react&mode=weekly&card_width=800)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=maksimUlitin&theme=modern-lilac" alt="GitHub Streak" /></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksimUlitin&layout=compact&theme=react&mode=weekly&card_width=500)
